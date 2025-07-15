@@ -16,11 +16,13 @@ Monte Carlo simulation of 10000 blackjack games comparing basic strategy to inte
 - Dealer hits until 17+
 
 ## Results
-Basic strategy yielded severe negative profit. Intermediate strategy yielded a net profit despite lower win% than loss%
+- Basic strategy yielded severe negative profit. Intermediate strategy yielded a net profit despite lower win% than loss%
 
 ## Skills
 - Python (Matplotlib, Random)
+- Monte Carlo simulation
 
 
-ChatGPT was used for logic structuring and debugging to accelerate learning and implementation
+
+*ChatGPT was used for logic structuring and debugging to accelerate learning and implementation
 
